@@ -1,0 +1,7 @@
+Go to terminal.
+Enter root mode using sudo -i.
+Run cd command to enter directory with all the files.
+Run the executable file StartRAMDisk using ./StartRAMDisk
+Choose approprite options.
+TO write on disk, enter the contents and press CTRL+D to save.
+
